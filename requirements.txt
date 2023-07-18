@@ -4,3 +4,4 @@ python-dotenv
 langchain
 "langchain[docarray]" 
 tiktoken
+openai-whisper
