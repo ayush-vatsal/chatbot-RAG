@@ -1,7 +1,6 @@
 openai
 gradio 
 python-dotenv 
-langchain 
-pypdf 
+langchain
 "langchain[docarray]" 
 tiktoken
