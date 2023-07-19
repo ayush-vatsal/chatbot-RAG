@@ -49,11 +49,12 @@ This command will launch a Gradio web application, allowing you to interact with
 
 ## Multi-lingual Voice Chatbot
 
-The Multi-lingual Voice Chatbot is designed to respond to user queries in multiple languages using voice input. The Multi-lingual Voice Chatbot is located in the "voice-feature" branch. To run the Multi-lingual Voice Chatbot, follow these steps:
-It understands more than 30 different languages howerver its performance is dependent on Whisper's performance.
+The Multi-lingual Voice Chatbot is designed to respond to user queries in multiple languages using voice input. The Multi-lingual Voice Chatbot is located in the "voice-feature" branch.
+It understands more than 30 different languages however its performance is dependent on Whisper's performance.
 ### Performance of Whisper model on different languages
 ![language-breakdown](https://github.com/ayush-vatsal/chatbot-RAG/assets/57457066/f62da70a-e7f0-411b-9deb-dc5bbef14608)
-###### (Taken form Whisper Github Readme)
+###### (Taken from Whisper Github Readme)
+ To run the Multi-lingual Voice Chatbot, follow these steps:
 ### Prerequisites
 
 Before running the Multi-lingual Voice Chatbot, ensure you have the following installed:
