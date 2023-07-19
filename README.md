@@ -77,8 +77,9 @@ pip install -r requirements.txt
 To run the Multi-lingual Voice Chatbot, follow these steps:
 
 1. Launch Jupyter Notebook.
-2. Open the "multi_lingual_voice_chatbot.ipynb" notebook.
-3. Follow the instructions in the notebook to interact with the Multi-lingual Voice Chatbot using voice input.
+2. change directories to Notebooks
+3. Open the "multi_lingual_voice_chatbot.ipynb" notebook.
+4. Follow the instructions in the notebook to interact with the Multi-lingual Voice Chatbot using voice input.
 
 Please note that the Multi-lingual Voice Chatbot requires additional models like the whisper model, which can be downloaded as instructed in the notebook.
 
