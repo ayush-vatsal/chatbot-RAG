@@ -46,7 +46,7 @@ pip install -r requirements.txt
 To run the Baseline Chatbot, navigate to the "src" directory and execute the following command:
 
 ```bash
-python gradio_app.py
+python gradio app.py
 ```
 
 This command will launch a Gradio web application, allowing you to interact with the Baseline Chatbot in your browser.
@@ -70,12 +70,22 @@ Before running the Multi-lingual Voice Chatbot, ensure you have the following in
 ### Installation
 
 1. Clone this repository to your local machine.
-2. Navigate to the "multi_lingual_voice_chatbot" directory.
+2. Navigate to the voice_feature branch
 3. Install the required dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+### Usage
+
+To run the Baseline Chatbot, navigate to the "src" directory and execute the following command:
+
+```bash
+python gradio app.py
+```
+
+This command will launch a Gradio web application, allowing you to interact with the Multi Lingual Voice Chatbot in your browser.
 
 ### Usage
 
@@ -86,5 +96,5 @@ To run the Multi-lingual Voice Chatbot, follow these steps:
 3. Open the "multi_lingual_voice_chatbot.ipynb" notebook.
 4. Follow the instructions in the notebook to interact with the Multi-lingual Voice Chatbot using voice input.
 
-Please note that the Multi-lingual Voice Chatbot requires additional models like the whisper model, which can be downloaded as instructed in the notebook.
+Please note that the Multi-lingual Voice Chatbot requires additional models like the whisper model, which can be downloaded as instructed in the notebook. ALso, the chatbots use OpenAI's GPT 3.5 model, so you will need a paid API key.
 
