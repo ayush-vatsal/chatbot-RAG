@@ -57,15 +57,14 @@ The Multi-lingual Voice Chatbot is designed to respond to user queries in multip
 It understands more than 30 different languages however its performance is dependent on Whisper's performance.
 ### Performance of Whisper model on different languages
 ![language-breakdown](https://github.com/ayush-vatsal/chatbot-RAG/assets/57457066/f62da70a-e7f0-411b-9deb-dc5bbef14608)
-###### (Taken from Whisper Github Readme)
+###### (Taken from Whisper Github's Readme)
  To run the Multi-lingual Voice Chatbot, follow these steps:
 ### Prerequisites
 
 Before running the Multi-lingual Voice Chatbot, ensure you have the following installed:
 
 1. Python (version 3.10.5)
-2. Jupyter Notebook
-3. Other dependencies specified in the requirements.txt file
+2. Other dependencies specified in the requirements.txt file
 
 ### Installation
 
@@ -87,9 +86,7 @@ python gradio app.py
 
 This command will launch a Gradio web application, allowing you to interact with the Multi Lingual Voice Chatbot in your browser.
 
-### Usage
-
-To run the Multi-lingual Voice Chatbot, follow these steps:
+Or,
 
 1. Launch Jupyter Notebook.
 2. change directories to Notebooks
