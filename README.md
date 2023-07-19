@@ -21,8 +21,7 @@ Before running the Baseline Chatbot, ensure you have the following installed:
 ### Installation
 
 1. Clone this repository to your local machine.
-2. Navigate to the "src" directory.
-3. Install the required dependencies using the following command:
+2. Install the required dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
@@ -30,7 +29,7 @@ pip install -r requirements.txt
 
 ### Usage
 
-To run the Baseline Chatbot, execute the following command:
+To run the Baseline Chatbot, navigate to the "src" directory and execute the following command:
 
 ```bash
 python gradio_app.py
