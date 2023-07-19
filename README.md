@@ -1,6 +1,16 @@
 # RAG Chatbot
 
 The Retrieval Augmented Generation Chatbot is a project that includes two chatbots: the Baseline Chatbot and the Multi-lingual Voice Chatbot. This README provides a guide on how to set up and run both chatbots.
+### Examples:
+![baseline_chatbot](https://github.com/ayush-vatsal/chatbot-RAG/assets/57457066/cb394f53-1bf0-4cb6-a252-368be3531be1)
+Baseline Chatbot
+
+![multi-lingual-english](https://github.com/ayush-vatsal/chatbot-RAG/assets/57457066/7f881d9b-5f3f-4a11-8782-fe45a81c0351)
+Multi-Lingual Voice based RAG Chatbot (English)
+
+![multi-lingual-hindi](https://github.com/ayush-vatsal/chatbot-RAG/assets/57457066/a2df6852-b943-4f36-8026-22e3b44af664)
+Multi-Lingual Voice based RAG Chatbot (Using translations, Hindi)
+
 
 ## Baseline Chatbot
 
